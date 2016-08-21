@@ -1,0 +1,65 @@
+[33mcommit a8c654e9cc6b712e6858b3f660db1e5b49e6439d[m
+Author: marisa cecilia <marisa.cecilia@hotmail.com>
+Date:   Sun Aug 21 14:39:42 2016 -0300
+
+    altera arquivo teste
+
+:100644 100644 1aafaae... f69d467... M	src/main/webapp/teste.xhtml
+
+[33mcommit b4629ccd9d3aef70bdd91f6b57fbf4fd9bef1315[m
+Author: marisa cecilia <marisa.cecilia@hotmail.com>
+Date:   Sun Aug 21 14:36:15 2016 -0300
+
+    add aruquivo xhtml
+
+:000000 100644 0000000... 23e0500... A	.classpath
+:000000 100644 0000000... b83d222... A	.gitignore
+:000000 100644 0000000... 5a53f27... A	.project
+:000000 100644 0000000... 2418123... A	.settings/.jsdtscope
+:000000 100644 0000000... 99f26c0... A	.settings/org.eclipse.core.resources.prefs
+:000000 100644 0000000... 443e085... A	.settings/org.eclipse.jdt.core.prefs
+:000000 100644 0000000... f897a7f... A	.settings/org.eclipse.m2e.core.prefs
+:000000 100644 0000000... 3095b75... A	.settings/org.eclipse.wst.common.component
+:000000 100644 0000000... c32233e... A	.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+:000000 100644 0000000... 4f73bdc... A	.settings/org.eclipse.wst.common.project.facet.core.xml
+:000000 100644 0000000... 3bd5d0a... A	.settings/org.eclipse.wst.jsdt.ui.superType.container
+:000000 100644 0000000... 05bd71b... A	.settings/org.eclipse.wst.jsdt.ui.superType.name
+:000000 100644 0000000... 04cad8c... A	.settings/org.eclipse.wst.validation.prefs
+
+[33mcommit f28e55322443f86d73a1331f509d52caa8ab0b9c[m
+Author: marisa cecilia <marisa cecilia>
+Date:   Sun Aug 21 14:32:15 2016 -0300
+
+    add aruquivo xhtml
+
+:000000 100644 0000000... 1aafaae... A	src/main/webapp/teste.xhtml
+:100644 100644 181fb7d... 7b22836... M	target/m2e-wtp/web-resources/META-INF/maven/com.algaworks/PedidoVenda/pom.properties
+
+[33mcommit 4dae6f9028c1328171415241ad34170e9f717094[m
+Author: edivaldo100 <edivaldo100@gmail.com>
+Date:   Sun Aug 21 14:07:26 2016 -0300
+
+    add projeto eclipse
+    
+    mavem
+
+:000000 100644 0000000... 9951aa0... A	pom.xml
+:000000 100644 0000000... 68d423a... A	src/main/webapp/Home.xhtml
+:000000 100644 0000000... a8ba4fb... A	src/main/webapp/Login.xhtml
+:000000 100644 0000000... cce0e2f... A	src/main/webapp/WEB-INF/faces-config.xml
+:000000 100644 0000000... 2e76220... A	src/main/webapp/WEB-INF/template/LayoutPadrao.xhtml
+:000000 100644 0000000... c7a2330... A	src/main/webapp/WEB-INF/web.xml
+:000000 100644 0000000... 5a57bee... A	src/main/webapp/produtos/CadastroProduto.xhtml
+:000000 100644 0000000... 7164a35... A	src/main/webapp/resources/css/sistema.css
+:000000 100644 0000000... d8dac75... A	src/main/webapp/resources/images/logo.png
+:000000 100644 0000000... 629e557... A	target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+:000000 100644 0000000... 181fb7d... A	target/m2e-wtp/web-resources/META-INF/maven/com.algaworks/PedidoVenda/pom.properties
+:000000 100644 0000000... 9951aa0... A	target/m2e-wtp/web-resources/META-INF/maven/com.algaworks/PedidoVenda/pom.xml
+
+[33mcommit fadf5b8c60d01690ef89c667571976dcd7fee955[m
+Author: marisa cecilia <marisa cecilia>
+Date:   Sun Aug 21 13:58:40 2016 -0300
+
+    first commit
+
+:000000 100644 0000000... 3c5c6d4... A	README.md
